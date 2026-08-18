@@ -29,7 +29,7 @@ export default function About() {
           <div className="about-right" data-reveal style={{ '--d': '120ms' }}>
             <div className="about-bio">
               <p>
-                I&rsquo;m a MERN stack developer based in Kenya. I work across the
+                I&rsquo;m a MERN stack developer based in Tamil Nadu India. I work across the
                 whole stack — MongoDB, Express, React, and Node — and I care about
                 the parts users actually notice: speed, clean state management,
                 and the small details that make an app feel finished.

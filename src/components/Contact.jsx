@@ -93,7 +93,7 @@ export default function Contact() {
                   setName(e.target.value)
                   if (errors.name) setErrors({ ...errors, name: undefined })
                 }}
-                placeholder="Haji Mohamed"
+                placeholder="Enter your Name"
                 required
                 aria-invalid={!!errors.name}
               />
